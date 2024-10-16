@@ -1,6 +1,4 @@
-   ╔════════════════════════╗
-## ║ Hello :) eu sou a Thayza!   ║
-   ╚════════════════════════╝
+## ➔ Hello :) eu sou a Thayza!
 
 ## ➔ Um pouco sobre o que eu sei:
 
