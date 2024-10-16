@@ -2,7 +2,7 @@
 ## ║ Hello :) eu sou a Thayza!   ║
    ╚════════════════════════╝
 
-## Um pouco sobre o que eu sei:
+## ➔ Um pouco sobre o que eu sei:
 
 <div style="display: flex; gap: 10;">
     <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" width="80" height="80" /> 
