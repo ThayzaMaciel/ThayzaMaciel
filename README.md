@@ -4,11 +4,13 @@
 
 ## Um pouco sobre o que eu sei:
 
-<img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" width="80" height="80" /> 
-<img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="80" height="80" /> 
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="80" height="80" /> 
-<img src="https://cdn-icons-png.flaticon.com/128/14929/14929345.png" width="80" height="80" /> 
-<img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" width="80" height="80" />
+<div style="display: flex; gap: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" width="80" height="80" /> 
+    <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="80" height="80" /> 
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="80" height="80" /> 
+    <img src="https://cdn-icons-png.flaticon.com/128/14929/14929345.png" width="80" height="80" /> 
+    <img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" width="80" height="80" />
+</div>
 
 
 
