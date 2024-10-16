@@ -1,4 +1,12 @@
-## Hi there 👋
+# ╔═══════════════════════════╗
+# ║ Hello :) eu sou a Thayza! ║
+# ╚═══════════════════════════╝
+
+## ~~~ Um pouco sobre o que eu sei: ~~~
+
+<img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" width="80" heigth="80" />
+
+
 
 <!--
 **ThayzaMaciel/ThayzaMaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
