@@ -16,6 +16,8 @@
     <img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" width="50" height="50" />
 </div>
 
+![Snake animation](https://github.com/rafaballerini2/ThayzaMaciel/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!--
