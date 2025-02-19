@@ -14,6 +14,7 @@
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50" height="50" /> 
     <img src="https://cdn-icons-png.flaticon.com/128/14929/14929345.png" width="50" height="50" /> 
     <img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" width="50" height="50" />
+    <img src="https://www.flaticon.com/free-icon/python_5968350" width="50" height="50" />
 </div>
 
 ![Snake animation](https://ThayzaMaciel.github.io/ThayzaMaciel/github-contribution-grid-snake.svg)
