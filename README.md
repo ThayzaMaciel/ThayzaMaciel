@@ -22,7 +22,7 @@ sempre buscando superar desafios que enriquecem minha jornada profissional.
     <img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" width="50" height="50" />
     <img src="https://github.com/user-attachments/assets/18548223-4a4f-4912-9852-c163155b2265" width="50" height="50" alt="image" />
     <img alt="image" src="https://github.com/user-attachments/assets/c446be3d-aeef-40c3-a246-243ceb81ba94" width="50" height="50"  />
-    <img src="[https://github.com/user-attachments/assets/d705fa0b-cd50-4294-bde6-6f8a98655fb4](https://webimages.mongodb.com/_com_assets/cms/kuyjcnyx8tghdv3ya-stacked_white.svg?auto=format%252Ccompress)" width="50" height="50" alt="image"  />
+    <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjcnyx8tghdv3ya-stacked_white.svg?auto=format%252Ccompress" width="50" height="50" alt="image"  />
 </div>
 
 ## Meus objetivos e aprendizados:
