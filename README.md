@@ -26,9 +26,15 @@ sempre buscando superar desafios que enriquecem minha jornada profissional.
 </div>
 
 ## Meus objetivos e aprendizados:
-[ ] Programador Pragmático
-[ ] Código limpo
-[ ] Cracking the Coding Interview
+
+- [ ] Programador Pragmático
+- [ ] Código limpo
+- [ ] Cracking the Coding Interview
+      
+## Próximas linguagens para estudar:
+- [ ] Kotlin
+- [ ] Rust
+- [ ] Dart
 
 
 <!--
