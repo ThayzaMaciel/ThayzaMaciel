@@ -14,7 +14,7 @@ sempre buscando superar desafios que enriquecem minha jornada profissional.
 <div/>
 
 ## Minhas principais linguagens:
-<div style="display: flex; gap: 10;">
+<div style="display: flex; gap: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" width="50" height="50" /> 
     <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="50" height="50" /> 
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50" height="50" /> 
