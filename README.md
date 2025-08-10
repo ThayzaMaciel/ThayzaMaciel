@@ -7,7 +7,7 @@ sempre buscando superar desafios que enriquecem minha jornada profissional.
 ➔ Gosto de trabalhar em projetos variados, desde interfaces interativas a pequenos jogos e scripts úteis.
 
 ## Um pouco sobre meu Github:
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 30px;">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=ThayzaMaciel&theme=midnight-purple&show_icons=true"/>
     <br>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThayzaMaciel&layout=compact&theme=midnight-purple&"/>
