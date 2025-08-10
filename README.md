@@ -2,6 +2,7 @@
 
 ## Sou uma programadora apaixonada por criar soluções criativas e aprender sempre!
 Estou em estágio na área de desenvolvimento, sempre buscando superar desafios que enriquecem minha jornada profissional.
+
 Objetivo: Me torna uma programadora fullstack cada vez mais completa.
 
 <div>
@@ -20,10 +21,6 @@ Objetivo: Me torna uma programadora fullstack cada vez mais completa.
     <img src="![image](https://github.com/user-attachments/assets/3b21efeb-d7bd-4d80-9191-fc40bd9d27d2)
 " width="50" height="50" />
 </div>
-
-![Snake animation](https://ThayzaMaciel.github.io/ThayzaMaciel/github-contribution-grid-snake.svg)
-
-
 
 
 <!--
