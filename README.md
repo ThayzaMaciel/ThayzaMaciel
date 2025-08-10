@@ -1,9 +1,12 @@
-## ➔ Hello :) eu sou a Thayza!
+## ➔ Olá, eu sou a Thayza!
 
-## ➔ Um pouco sobre o que eu sei:
+## Sou uma programadora apaixonada por criar soluções criativas e aprender sempre!
+Estou em estágio na área de desenvolvimento, sempre buscando superar desafios que enriquecem minha jornada profissional.
+Objetivo: Me torna uma programadora fullstack cada vez mais completa.
 
 <div>
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=ThayzaMaciel&theme=midnight-purple&show_icons=true"/>
+    <br>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThayzaMaciel&layout=compact&theme=midnight-purple&"/>
     
 <div/>
