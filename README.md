@@ -1,8 +1,6 @@
 ## ➔ Olá, eu sou a Thayza!
 
-## Sou uma programadora apaixonada por criar soluções criativas e aprender sempre!
-Estou em estágio na área de desenvolvimento, sempre buscando superar desafios que enriquecem minha jornada profissional.
-
+Sou uma programadora apaixonada por criar soluções criativas e aprender sempre! Estou em estágio na área de desenvolvimento, sempre buscando superar desafios que enriquecem minha jornada profissional.
 Objetivo: Me torna uma programadora fullstack cada vez mais completa.
 
 <div>
