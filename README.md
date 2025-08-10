@@ -3,6 +3,7 @@
 Sou uma programadora apaixonada por criar soluções criativas e aprender sempre! 
 Estou em estágio na área de desenvolvimento,sempre buscando superar desafios que enriquecem minha jornada profissional.
 <p/>
+    
 **Objetivo: Me tornar uma programadora fullstack cada vez mais completa.**
 <p/>
 ➔ Gosto de trabalhar em projetos variados, desde interfaces interativas a pequenos jogos e scripts úteis.
