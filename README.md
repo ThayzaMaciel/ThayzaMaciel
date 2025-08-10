@@ -4,7 +4,7 @@ Sou uma programadora apaixonada por criar soluções criativas e aprender sempre
 Estou em estágio na área de desenvolvimento, 
 sempre buscando superar desafios que enriquecem minha jornada profissional.
 ### Objetivo: Me tornar uma programadora fullstack cada vez mais completa.
-➔ Gosto de trabalhar em projetos variados, desde interfaces interativas a pequenos jogos e scripts úteis. 
+➔ Gosto de trabalhar em projetos variados, desde interfaces interativas a pequenos jogos e scripts úteis.
 
 ## Um pouco sobre meu Github:
 <div>
@@ -20,7 +20,9 @@ sempre buscando superar desafios que enriquecem minha jornada profissional.
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50" height="50" /> 
     <img src="https://cdn-icons-png.flaticon.com/128/14929/14929345.png" width="50" height="50" /> 
     <img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" width="50" height="50" />
-    <img src="https://github.com/user-attachments/assets/18548223-4a4f-4912-9852-c163155b2265" width="50" height="50" alt="image"  />
+    <img src="https://github.com/user-attachments/assets/18548223-4a4f-4912-9852-c163155b2265" width="50" height="50" alt="image" />
+    <img alt="image" src="https://github.com/user-attachments/assets/c446be3d-aeef-40c3-a246-243ceb81ba94" width="50" height="50"  />
+
     
     
 </div>
