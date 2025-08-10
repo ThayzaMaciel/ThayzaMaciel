@@ -9,7 +9,6 @@ sempre buscando superar desafios que enriquecem minha jornada profissional.
 ## Um pouco sobre meu Github:
 <div style="display: flex; gap: 30px;">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=ThayzaMaciel&theme=midnight-purple&show_icons=true"/>
-    <br>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThayzaMaciel&layout=compact&theme=midnight-purple&"/>
 <div/>
 
