@@ -3,15 +3,17 @@
 Sou uma programadora apaixonada por criar soluções criativas e aprender sempre! 
 Estou em estágio na área de desenvolvimento, 
 sempre buscando superar desafios que enriquecem minha jornada profissional.
-Objetivo: Me torna uma programadora fullstack cada vez mais completa.
+# Objetivo: Me tornar uma programadora fullstack cada vez mais completa.
+➔ Gosto de trabalhar em projetos variados, desde interfaces interativas a pequenos jogos e scripts úteis. 
 
+## Um pouco sobre meu Github:
 <div>
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=ThayzaMaciel&theme=midnight-purple&show_icons=true"/>
     <br>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThayzaMaciel&layout=compact&theme=midnight-purple&"/>
-    
 <div/>
 
+## Minhas principais linguagens:
 <div style="display: flex; gap: 10;">
     <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" width="50" height="50" /> 
     <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="50" height="50" /> 
