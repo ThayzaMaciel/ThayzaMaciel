@@ -1,4 +1,4 @@
-# ➔ Olá, eu sou a Thayza!
+## ➔ Olá, eu sou a Thayza!
 
 Sou uma programadora apaixonada por criar soluções criativas e aprender sempre! 
 Estou em estágio na área de desenvolvimento, 
