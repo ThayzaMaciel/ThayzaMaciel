@@ -28,15 +28,12 @@ Estou em estágio na área de desenvolvimento,sempre buscando superar desafios q
 
 ## Meus objetivos e aprendizados:
 
-- [ ] Programador Pragmático
+- [x] Programador Pragmático
 - [ ] Código limpo
 - [ ] Cracking the Coding Interview
       
 ## Próximas linguagens para estudar:
 
-- [ ] Kotlin
-- [ ] Rust
-- [ ] Dart
 
 
 <!--
